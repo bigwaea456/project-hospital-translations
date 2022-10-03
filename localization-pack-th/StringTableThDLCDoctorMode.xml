@@ -79,34 +79,34 @@
             <GameDBLocalizedString>      <LocID>DLC_CAMPAIGN_01_WELCOME_MORE_INFO</LocID>                   <Text>ตึกสร้างเสร็จเรียบร้อยแล้วๆ แต่เราหาใครทีความสามารถพอที่จะมาทำงานที่นี้ได้เลย และเรายังขาดห้องและอุปกรณ์อีกด้วย คุณพอที่จะเปลี่ยนแปลงโรงพยาบาลแห่งนี้ได้ไหม? จ้างพนักงาน เปิดแผนกและหาผู้ชำนาญการที่พอจะมาแทนที่คุณได้เมื่อคุณออกมาแล้ว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DLC_CAMPAIGN_01_CREATE_DOCTOR</LocID>                       <Text>เยี่ยมไปเลย ทำไมคุณไม่ลองเริ่มสร้างคนที่จะมาสืบทอดคุณดูล่ะ?</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DLC_CAMPAIGN_01_TAKE_OVER_DOCTOR</LocID>                    <Text>เยี่ยมมาก ฉันรู้สึกดีขึ้นมาเลย ตอนนี้คลินิกได้เปิดทำการแล้ คุณลองเฝ้าติดตามหมอของคุณดูสิเพื่อดูการวินิจฉัยต่าง ๆ</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_CAMPAIGN_01_NEW_INSURANCE</LocID>                       <Text>Things are looking good. This way your doctor will be a specialist in no time, so keep it up! In the meantime our sister insurance company will offer more opportunities.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_CAMPAIGN_01_LAST_INSURANCE</LocID>                      <Text>Another friendly insurance company has some challenges for us to tackle, let's focus on these too. Our main goal is to complete them all to make sure that hospital is ready to operate independently.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_CAMPAIGN_01_FINISHED</LocID>                            <Text>Great work! You have created an excellent hospital and trained your replacement. You can now retire in peace knowing that your legacy will continue to help people across the country.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_CAMPAIGN_01_NEW_INSURANCE</LocID>                       <Text>เริ่มดูดีขึ้นบ้างแล้ว ถ้าเป็นแบบนี้คุณหมอจะสามารถเป็นผู้เชี่ยวชาญได้เลย จงสู้ต่อไป! ในตอนนี้บริษัทประกันในเครือของเราจะคอยมอบโอกาศดี ๆ ให้</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_CAMPAIGN_01_LAST_INSURANCE</LocID>                      <Text>มีบริษัทประกันเข้ามาเอางานให้ทำล่ะ ถือว่าสำคัญมากเหมือนกัน เป้าหมายของพวกเราคือทำทั้งหมดนี้ให้เสร็จเพื่อที่จะทำให้แน่ใจว่าโรงพยาบาลของเราพร้อมแล้ว</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_CAMPAIGN_01_FINISHED</LocID>                            <Text>ดีมาก! คุณได้สร้างโรงพยาบาลที่สมบูรณ์แบบและฝึกหมอที่มาทำงานแทนที่สำเร็จแล้ว ตอนนี้คุณคงจะเกษียรได้โดยที่ไม่ต้องกังวลอะไรแล้วล่ะ</Text>  </GameDBLocalizedString>
             
             <!-- DLC  Achievements-->
-            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_TUTORIAL_01</LocID>                         <Text>Goodbye, training wheels!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_TUTORIAL_01</LocID>                         <Text>ฝึกฝนสำเร็จแล้ว!Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_TUTORIAL_01_DESCRIPTION</LocID>             <Text>Finish the Doctor Mode DLC tutorial</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_LEVEL_1</LocID>                             <Text>Paging doctor Mouse</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_LEVEL_1_DESCRIPTION</LocID>                 <Text>Finish the Doctor Mode DLC level</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_CREATE_ONE_CHAR</LocID>                     <Text>I choose you...</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_CREATE_ONE_CHAR_DESCRIPTION</LocID>         <Text>Create your own character.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_CREATE_ONE_CHAR</LocID>                     <Text>ฉันเลือกคุณ...</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_CREATE_ONE_CHAR_DESCRIPTION</LocID>         <Text>สร้างตัวละครของคุณ</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_CREATE_MORE_CHAR</LocID>                    <Text>...and you and you and you too.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_CREATE_MORE_CHAR_DESCRIPTION</LocID>        <Text>Create 10 own characters.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_CREATE_MORE_CHAR</LocID>                    <Text>คุณ...คุณ...แล้วก็คุณเหมือนกัน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_CREATE_MORE_CHAR_DESCRIPTION</LocID>        <Text>มีตัวละครทั้งหมด 10 ตัว</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE</LocID>                     <Text>Let's put the skills to the test</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE_DESCRIPTION</LocID>         <Text>Activate Specialist mode</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE</LocID>                     <Text>มาเอาจริงกับบททดสอบกันดีกว่า!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE_DESCRIPTION</LocID>         <Text>เปิดโหมดผู้เชี่ยวชาญ</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE_PATIENT</LocID>             <Text>You didn't see anything</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE_PATIENT_DESCRIPTION</LocID> <Text>Treat your first patient in Specialist mode</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE_PATIENT</LocID>             <Text>เมื่อกี้ไม่เห็นอะไรใช่ไหม?</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE_PATIENT_DESCRIPTION</LocID> <Text>รักษาคนไข้คนแรกในโหมดผู้เชี่ยวชาญ</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE_PATIENTS</LocID>            <Text>I knight thee. Arise, Specialist!</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE_PATIENTS_DESCRIPTION</LocID><Text>Treat 20 patients in Specialist mode</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE_PATIENTS</LocID>            <Text>ฉันให้เกียรติเธอ ผู้เชี่ยวชาญ!</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_SPECIALIST_MODE_PATIENTS_DESCRIPTION</LocID><Text>รักษาคนไข้ 20 คนในโหมดผู้เชี่ยวชาญ</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_CAMERA_ROTATION</LocID>                     <Text>Never stop spinning meeee</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_CAMERA_ROTATION_DESCRIPTION</LocID>         <Text>Rotate the camera 100 times</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_CAMERA_ROTATION</LocID>                     <Text>หมุนต่อไปอย่างงั้นแหละะะะ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DLC_ACHIEVEMENT_CAMERA_ROTATION_DESCRIPTION</LocID>         <Text>หมุนแกนกล้องครบ 100 ครั้ง</Text>  </GameDBLocalizedString>
 
             <!-- Character editor -->
             <GameDBLocalizedString>      <LocID>CHAR_EDITOR_NAME</LocID>                                    <Text>แก้ไขตัวละคร</Text>  </GameDBLocalizedString>
@@ -122,11 +122,11 @@
             <GameDBLocalizedString>      <LocID>CHAR_EDITOR_LIPS</LocID>                                    <Text>ริมฝีปาก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CHAR_EDITOR_BEARD</LocID>                                   <Text>เครา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CHAR_EDITOR_NOSE</LocID>                                    <Text>จมูก</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>CHAR_EDITOR_WRINKLES</LocID>                                <Text>Wrinkles</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CHAR_EDITOR_WRINKLES</LocID>                                <Text>ริ้วรอย</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CHAR_EDITOR_ACCESSORIES</LocID>                             <Text>เครื่องประดับ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CHAR_EDITOR_PERSONAL_INFO</LocID>                           <Text>ข้อมูลส่วนตัว:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CHAR_EDITOR_OCCUPATION</LocID>                              <Text>อาชีพ:</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>CHAR_EDITOR_LEVEL</LocID>                                   <Text>Level:</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CHAR_EDITOR_LEVEL</LocID>                                   <Text>เลเวล:</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CHAR_EDITOR_SKIN_TONES</LocID>                              <Text>สีผิว</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CHAR_EDITOR_HAIR_TONES</LocID>                              <Text>สีผมและเครา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>CHAR_EDITOR_PERKS</LocID>                                   <Text>เลือกเปิร์ก:</Text>  </GameDBLocalizedString>
@@ -136,30 +136,30 @@
             <GameDBLocalizedString>      <LocID>CHAR_EDITOR_CREATE</LocID>                                  <Text>สร้างสำหรับ ${1}</Text>  </GameDBLocalizedString>
 
             <!-- Insurance objectives -->
-            <GameDBLocalizedString>      <LocID>CREATED_DOCTORS</LocID>                                     <Text>สร้าง {1} หมอ(s) ด้วยการแก้ไขตัวละคร (ในบัตรจ้าง)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CREATED_DOCTORS</LocID>                                     <Text>สร้าง {1} หมอ ด้วยการแก้ไขตัวละคร (ในบัตรจ้าง)</Text>  </GameDBLocalizedString>
 
             <!-- Parameter {1} is a number, parameter {2} is a name of a department -->
-            <GameDBLocalizedString>      <LocID>CREATED_DOCTORS_AT_DEPARTMENT</LocID>                       <Text>Create {1} doctor(s) with character editor (in hiring card) at {2}</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TREATED_PATIENTS_WITH_INTERN_MODE_AT_DEPARTMENT</LocID>     <Text>Treat {1} patient(s) of controlled doctors at {2} in Intern mode</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TREATED_PATIENTS_WITH_RESIDENT_MODE_AT_DEPARTMENT</LocID>   <Text>Treat {1} patient(s) of controlled doctors at {2} in Resident mode</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TREATED_PATIENTS_WITH_SPECIALIST_MODE_AT_DEPARTMENT</LocID> <Text>Treat {1} patient(s) of controlled doctors at {2} in Specialist mode</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TREATED_CONTROLLED_PATIENTS_AT_DEPARTMENT</LocID>           <Text>Treat {1} patient(s) of controlled doctors at {2}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CREATED_DOCTORS_AT_DEPARTMENT</LocID>                       <Text>สร้าง {1} หมอ ด้วยการแก้ไขตัวละคร (ในบัตรจ้าง) ที่ {2}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATED_PATIENTS_WITH_INTERN_MODE_AT_DEPARTMENT</LocID>     <Text>รักษา {1} คนไข้ของหมอที่ถูกควบคุมอยู่ที่ {2} ในโหมดแพทย์ฝึกงาน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATED_PATIENTS_WITH_RESIDENT_MODE_AT_DEPARTMENT</LocID>   <Text>รักษา {1} คนไข้ของหมอที่ถูกควบคุมอยู่ที่ {2} ในโหมดแพทย์ประจำบ้าน</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATED_PATIENTS_WITH_SPECIALIST_MODE_AT_DEPARTMENT</LocID> <Text>รักษา {1} คนไข้ของหมอที่ถูกควบคุมอยู่ที่ {2} ในโหมดแพทย์ผู้เชี่ยวชาญ</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATED_CONTROLLED_PATIENTS_AT_DEPARTMENT</LocID>           <Text>รักษา {1} คนไข้ของหมอที่ถูกควบคุมอยู่ที่ {2}</Text>  </GameDBLocalizedString>
 
             <!-- Parameter {1} is name of the level (like Resident or Attending), parameter {2} is name of the profession, currently only Doctor -->
-            <GameDBLocalizedString>      <LocID>REACHED_CERTAIN_LEVEL_WITH_CREATED_CHARACTER</LocID>        <Text>Reach {1} level with one of your created {2}(s)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>REACHED_CERTAIN_LEVEL_WITH_CREATED_CHARACTER</LocID>        <Text>เล่นจนถึงเลเวล {1} กับตัวละครที่คุณสร้างมา {2}(s)</Text>  </GameDBLocalizedString>
 
             <!-- Parameter {1} is a number, parameter {2} is a name of a department -->
-            <GameDBLocalizedString>      <LocID>NO_DEAD_CONTROLLED_PATIENTS_DAYS</LocID>                    <Text>Have no dead patients of controlled doctors for {1} days at {2}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NO_DEAD_CONTROLLED_PATIENTS_DAYS</LocID>                    <Text>ไม่มีคนไข้ของหมอที่ถูกควบคุมอยู่เสียชีวิตตลอด {1} วัน ที่ {2}</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>REACHED_DOCTORS_RATING</LocID>                              <Text>Reach controlled doctor's rating {1}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>REACHED_DOCTORS_RATING</LocID>                              <Text>ระดับเรตติ้งของคุณหมอคือ {1}</Text>  </GameDBLocalizedString>
             
             <!-- Parameter {1} is difficulty level, see BEGINNER_MODE, EASY_MODE above in this file  -->
-            <GameDBLocalizedString>      <LocID>CORRECTLY_DIAGNOSED_CONTROLLED_DOCTORS_PATIENTS</LocID>     <Text>Correctly diagnose patients of controlled doctors in {1}</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TREATED_CONTROLLED_DOCTORS_PATIENTS</LocID>                 <Text>Treat patients of controlled doctors in {1}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CORRECTLY_DIAGNOSED_CONTROLLED_DOCTORS_PATIENTS</LocID>     <Text>สามารถวินิจฉัยโรคคนไข้ได้อยากถูกต้องในความยากระดับ {1}</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TREATED_CONTROLLED_DOCTORS_PATIENTS</LocID>                 <Text>รักษาคนไข้ของหมอที่ถูกควบคุมอยู่ในความยากระดับ {1}</Text>  </GameDBLocalizedString>
 
             <!-- Parameter {1} is a number -->
-            <GameDBLocalizedString>      <LocID>EXPERIENCE_POINTS_FOR_CREATED_CHARACTERS</LocID>            <Text>{1} experience points for all player-created characters</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EXPERIENCE_POINTS_FOR_CONTROLLED_DOCTORS</LocID>            <Text>{1} experience points for player-controlled doctors</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXPERIENCE_POINTS_FOR_CREATED_CHARACTERS</LocID>            <Text>{1} ค่าประสบการณ์สำหรับตัวละครที่ผู้เล่นสร้างไว้ทั้งหมด</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EXPERIENCE_POINTS_FOR_CONTROLLED_DOCTORS</LocID>            <Text>{1} ค่าประสบการณ์สำหรับแพทย์ที่ผู้เล่นได้ควบคุมทั้งหมด</Text>  </GameDBLocalizedString>
             
             <!-- RELATED FILE: StringTable[Language]Names.xml -->
             <GameDBLocalizedString>    <LocID>IN_COM_CAMPAIGN_CAMPAIGN_1B</LocID>                           <Text>LifeGoesOn Cure</Text>  </GameDBLocalizedString>
